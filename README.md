@@ -1,33 +1,24 @@
 # projeto-power-bi-introducao
-# 📊 Projeto Power BI — Introdução à Análise de Dados
+# 📊 Estudos de Power BI e Análise de Dados
 
-## 📌 Sobre o projeto
+## 👨‍💻 Sobre mim
 
-Este é meu primeiro projeto desenvolvido utilizando o Microsoft Power BI, realizado durante um curso de Introdução à Análise de Dados.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou iniciando minha jornada na área de tecnologia e análise de dados.
 
-O objetivo foi colocar em prática conceitos básicos de análise e visualização de dados, transformando informações em gráficos e indicadores para facilitar a interpretação dos resultados.
+Este repositório foi criado para registrar minha evolução nos estudos de Power BI e, futuramente, compartilhar exercícios e projetos desenvolvidos durante minha formação.
 
-## 🛠️ Tecnologias utilizadas
+## 📚 Atualmente estudando
 
-- Microsoft Power BI
-- Power Query
-- Visualização de Dados
+- Power BI
 - Análise de Dados
-
-## 📈 O que foi desenvolvido
-
-- Importação e organização dos dados
-- Tratamento dos dados
-- Criação de visualizações
-- Criação de indicadores
-- Análise das informações através de um dashboard
+- Excel
+- SQL
+- Banco de Dados
 
 ## 🎯 Objetivo
 
-Este projeto faz parte da minha jornada de aprendizado em Análise de Dados e Análise e Desenvolvimento de Sistemas (ADS).
+Desenvolver meus conhecimentos em análise e visualização de dados e construir, aos poucos, um portfólio com projetos práticos.
 
-Pretendo continuar desenvolvendo projetos para aprimorar meus conhecimentos em Power BI, SQL, Excel e outras ferramentas relacionadas à área de dados.
+---
 
-## 👨‍💻 Autor
-
-Danilo Nunes
+**Este repositório será atualizado conforme eu desenvolver novos exercícios e projetos.**
